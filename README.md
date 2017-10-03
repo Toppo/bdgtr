@@ -5,6 +5,7 @@
 
 * Vagrant 1.8.4 & VirtualBox 5.0.38
 * Vagrant 1.9.8 & VirtualBox 5.1.26
+* Vagrant 2.0.0 & VirtualBox 5.1.26
 
 ## Installation
 
