@@ -6,3 +6,5 @@
 
 cd /home/vagrant/bdgtr
 composer install
+yarn
+yarn run encore dev
