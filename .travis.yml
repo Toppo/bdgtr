@@ -27,6 +27,7 @@ install:
   - php bin/console doctrine:database:create --env=test
   - php bin/console doctrine:schema:create --env=test
   - yarn
+  - yarn run encore production
 
 # Run script
 script:
