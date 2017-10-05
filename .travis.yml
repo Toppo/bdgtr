@@ -5,8 +5,10 @@ services:
   - mysql
 
 cache:
+  yarn: true
   directories:
     - $HOME/.composer/cache/files
+    - node_modules
 
 matrix:
   include:
