@@ -29,3 +29,6 @@ install:
 # Run script
 script:
   - phpunit
+
+after_success:
+  - travis_retry php vendor/bin/coveralls
