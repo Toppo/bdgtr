@@ -16,7 +16,7 @@ folders:
       to: "/home/vagrant/bdgtr"
 
 sites:
-    - map: bdgtr.app
+    - map: bdgtr.local
       to: "/home/vagrant/bdgtr/web"
       type: "symfony"
 
