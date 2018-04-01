@@ -12,6 +12,6 @@
 git clone https://github.com/Toppo/bdgtr.git
 vagrant up
 ```
-Local environment should be running at `https://bdgtr.app/`
+Local environment should be running at `https://bdgtr.local/`
 
 TODO
